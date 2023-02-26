@@ -8,6 +8,7 @@ After gathering a basic idea on shodan I visited Matherly's [website](www.shodan
 I tried using another tag called *Server SQ-WEBCAM* which led me to various webcams all over the world so I tried getting into one of the webcam server and it worked I got into one of the administration panel of a sever where i could see the different toggles that could move the camera face and more things like change resolution, change size,etc.
 
 I used another tag *webcamxp* which led me many cameras one of which was on a random street of Roanoke in the US.</br>
-![ss](/home/roopa/Downloads/shodan webcam.png)
+![shodan webcam](https://user-images.githubusercontent.com/96241263/221429635-1a83a71c-b8c5-4715-bb60-e1971d2bb6f3.png)
+
 
 This was a very interesting task I will look into it's uses in SCADA systems next.
