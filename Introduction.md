@@ -19,9 +19,9 @@ Basic Working- The data is transmitted in the form of a series of zeroes and one
 (b) **DNP3 (Distributed Network Protocol 3.0)**- Developed by Westronic. This protocol is used in automation and control of various industries like electric, oil, wastewater, gas utilities because it is resistant to EMI-induced distortion(distortion of the voltage and current waveforms in the power grid caused by external electromagnetic fields), works reliably over varied and low-quality media and can address 65k devices in a single link, supports multiple data types.
 
 * Key differences between DNP3 and MODBUS protocol
-1) Application: Modbus is designed mostly for communication between devices in a single master-slave configuration while DNP3 is designed for communictaion in a distributed network of devices.
-2) Message Structure: Modbus uses a simple message structure consisting of function codes and data, while DNP3 uses a more complex message structure that includes more information about data types, timestamps, and event notification.
-3) Security: DNP3 includes built-in security features such as encryption and authentication, while Modbus does not have native security features and relies on external mechanisms for security.
+1) *Application*: Modbus is designed mostly for communication between devices in a single master-slave configuration while DNP3 is designed for communictaion in a distributed network of devices.
+2) *Message Structure*: Modbus uses a simple message structure consisting of function codes and data, while DNP3 uses a more complex message structure that includes more information about data types, timestamps, and event notification.
+3) *Security*: DNP3 includes built-in security features such as encryption and authentication, while Modbus does not have native security features and relies on external mechanisms for security.
 
 
 
