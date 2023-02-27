@@ -2,7 +2,7 @@
 SCADA systems are used to protect the process while IT systems are used to protect the data.
 
 ## Why we need to protect the process?
-Scada systems are used to monitor the processes that are being executed with no issues . It is dependen t on continuous processing so a single valve malfunction can cause malfuction in the entire plant.For example the texas city oil refinery blew up in 2005 beacause a pressure releif valve malfunctioned.
+Scada systems are used to monitor the processes that are being executed with no issues . It is dependent on continuous processing so a single valve malfunction can cause problem in the entire plant.For example the texas city oil refinery blew up in 2005 beacause a pressure releif valve malfunctioned.
 
 ## Protocols in scada systems
 (a) **MODBUS**- It is a serial communication protocol developed by Modicon for it's use with PLCs. It helps in transmitting information between the instrumentation and control devices send back information to the main controller. Modbus is often used to connect a supervisory computer with a remote terminal unit (RTU) in supervisory control and data acquisition (SCADA)systems.It requires little processing power since it is based on master/slave architecture which works on a request/reply model.
