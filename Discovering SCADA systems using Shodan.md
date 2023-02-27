@@ -2,6 +2,4 @@
 
 * Finding SCADA systems by PLC name- I tried to find some by entering the tag *Schneider Electric* under which I got 3000 results and to narrow it down I added another keyword SAS(Schneider Automated ELectric).
 
-data types are named using their use in driving relays:
-single bit physical output is called coil 
-single bit physical input is called discrete input or a contact.
+![shodan plc](https://user-images.githubusercontent.com/96241263/221658147-7c634a8d-1e7c-4205-89cc-b16e1b415166.png)
