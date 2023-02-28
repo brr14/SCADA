@@ -23,5 +23,8 @@ Basic Working- The data is transmitted in the form of a series of zeroes and one
 2) *Message Structure*: Modbus uses a simple message structure consisting of function codes and data, while DNP3 uses a more complex message structure that includes more information about data types, timestamps, and event notification.
 3) *Security*: DNP3 includes built-in security features such as encryption and authentication, while Modbus does not have native security features and relies on external mechanisms for security.
 
+(c) **Profibus**- It is a field bus communication protocol used to connect and exchange data between various devices in a process conrol system. Here all the devices follow a proper sequence to connect to a network, each slave maintains a timer. The slave goes into a state known as a safe state if the master does not talk to a particular slave at the right time. If the master wants to exchange data, it has to go through the start-up sequence again 
+[ref](https://www.sciencedirect.com/science/article/pii/S0167404822004205)
+
 
 
