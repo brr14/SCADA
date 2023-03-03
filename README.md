@@ -5,4 +5,6 @@ Basic understanding of SCADA systems.</br>
 (c) Discovering SCADA systems with Shodan</br>
 (d) Vulnerabilities</br>
 (e) DoSing</br>
+(f) Discovering SCADA systems using google dorks</br>
+
 
