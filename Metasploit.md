@@ -20,7 +20,9 @@ Started with running the basic commands like:</br>
 ![Screenshot from 2023-03-10 22-42-34](https://user-images.githubusercontent.com/96241263/224387702-de272907-8dad-46a9-8f1f-fd3b8b36dbfd.png)
 * *Exploits* they define the exploitation framework which take advantage of a vulnerability in a system.
 * *Payloads* these help in connecting the target system.
-* 
+![Screenshot from 2023-03-11 00-21-48](https://user-images.githubusercontent.com/96241263/224404351-ead73aaa-c04a-4788-8908-7a59734e831e.png)
+(a)Stages- use tiny stager
+
 * *Auxiliary* provides capabilities like scanners,DoS,spoofing,etc.
 * *Encoders* designed to re-encode payloads and exploits.
 * *Post* (post exploitation) used after exploitation of the system.
